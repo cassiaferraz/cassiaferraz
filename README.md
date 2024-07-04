@@ -1,6 +1,5 @@
 - <h1>
-    <a href="https://cassiaferraz.github.io/">
-     <img align="center" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png">      </a>
+     <img align="center" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png">
     <span>Cassia Ferraz</span>
 </h1>
 
