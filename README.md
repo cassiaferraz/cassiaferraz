@@ -1,5 +1,5 @@
 - <h1>
-     <img align="center" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png">
+     <img align="center" width="36px" >
     <span>Cassia Ferraz</span>
 </h1>
 
