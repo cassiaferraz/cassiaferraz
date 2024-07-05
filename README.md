@@ -1,5 +1,5 @@
 - <h1>
-     <img align="center" width="36px" >
+     <img align="center" width="36px" src="AVATAR-INSTAGRAM.jpg">
     <span>Cassia Ferraz</span>
 </h1>
 
