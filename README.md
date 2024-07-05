@@ -12,7 +12,7 @@
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ddec55&color:FFF)](https://www.linkedin.com/in/cassiaferraz/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ddec55&color:FFF)](https://www.linkedin.com/in/cassia-ferraz-90b8a219b/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ddec55&color:FFF)](https://www.instagram.com/cassiaferraz/)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=ddec55&color:FFF)](https://www.youtube.com/@cassiaferrazdev)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=ddec55&color:FFF)](https://www.gmail.com/"mailto:cassia.lf80@gmail.com")
